@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 Hello!
 My name is **Harumi**.
 
@@ -23,6 +24,7 @@ Currently, I am studying languages like **Rust** and **Go**, as well as **Docker
 </p>
 
 ## Languages and Tools
+
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -48,10 +50,16 @@ Currently, I am studying languages like **Rust** and **Go**, as well as **Docker
 </p>
 
 ## I'm still learning
+
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
 
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Stats
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harumiWeb&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harumiWeb&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harumiWeb&theme=gruvbox)
