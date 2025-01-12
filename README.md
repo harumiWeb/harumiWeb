@@ -56,6 +56,9 @@ Currently, I am studying languages like **Rust** and **Go**, as well as **Docker
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VBAの&amp;文字列連結が見辛いので他言語のformatメソッドを自作した](https://zenn.dev/harumikun/articles/371654562428df)
+- [Gemini APIとReactでimgタグを自動生成するAIアプリを作りました](https://zenn.dev/harumikun/articles/cce550f68f1680)
+- [Next.js 14をCloudflare Pagesにデプロイする手順](https://zenn.dev/harumikun/articles/649aa72c10de0e)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
