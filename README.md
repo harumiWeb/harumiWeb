@@ -4,7 +4,7 @@ Hello!
 My name is **Harumi**.
 
 I am a DX engineer.🔧
-In my work, I use **Python**, **VBA**, and **Flutter**.🐍
+In my work, I use **Python**, **JavaScript**, and **Flutter**.🐍
 
 In my private time, I enjoy personal development using **React** and **Next.js**.💻
 
