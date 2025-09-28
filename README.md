@@ -56,10 +56,10 @@ Currently, I am studying languages like **Rust** and **Go**, as well as **Docker
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い](https://zenn.dev/harumikun/articles/fb9c435acf4070)
 - [Flet1.0での大幅進化に向けて簡単アプリを作成して予習してみる](https://zenn.dev/harumikun/articles/231f20befd1246)
 - [ディレクトリツリー作成便利ツールを作成してPyPIで公開するまで](https://zenn.dev/harumikun/articles/e0792a64699728)
 - [Rust/Tauriに入門したので画像変換デスクトップアプリを開発してみた](https://zenn.dev/harumikun/articles/67f992728099ed)
-- [VBAの&amp;文字列連結が見辛いので他言語のformatメソッドを自作した](https://zenn.dev/harumikun/articles/371654562428df)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
