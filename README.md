@@ -56,7 +56,7 @@ Currently, I am studying languages like **Rust** and **Go**, as well as **Docker
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RAGで厄介なExcel文書を解析して意味構造JSON化するライブラリを作りました](https://zenn.dev/harumikun/articles/42e9cd55ab5960)
+- [RAGで厄介なExcel文書を意味構造JSON化するOSSライブラリを作りました](https://zenn.dev/harumikun/articles/42e9cd55ab5960)
 - [【Python】そうだ、スキャンPDFをOCRして検索可能PDFに変換しよう](https://zenn.dev/harumikun/articles/92f938789a86de)
 - [GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い](https://zenn.dev/harumikun/articles/fb9c435acf4070)
 - [Flet1.0での大幅進化に向けて簡単アプリを作成して予習してみる](https://zenn.dev/harumikun/articles/231f20befd1246)
