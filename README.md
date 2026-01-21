@@ -56,10 +56,10 @@ Currently, I am studying languages like **Rust** and **Go**, as well as **Docker
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ExcelVBAをVSCode × AIエージェントの100%バイブコーディングで開発する方法](https://zenn.dev/harumikun/articles/5a0f1ef2a2265d)
 - [Mermaidコード読めないから某翻訳アプリのようなChrome拡張機能を作った](https://zenn.dev/harumikun/articles/607d6992408ad5)
 - [Pythonだけで&quot;ほぼReact&quot;な宣言的UIアプリが作れるようになったぞ！【Flet1.0beta】](https://zenn.dev/harumikun/articles/357c576417fbdd)
 - [RAGで厄介なExcel文書を意味構造JSON化するOSSライブラリを作りました](https://zenn.dev/harumikun/articles/42e9cd55ab5960)
-- [【Python】そうだ、スキャンPDFをOCRして検索可能PDFに変換しよう](https://zenn.dev/harumikun/articles/92f938789a86de)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
