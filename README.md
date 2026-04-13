@@ -56,10 +56,10 @@ Currently, I am studying languages like **Rust** and **Go**, as well as **Docker
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ターミナル上で爆速で英単語学習できるGo製TUIアプリ「eitango」を作った](https://zenn.dev/harumikun/articles/b43052b1776434)
 - [非Vimmerでもターミナル完結！新世代エディタ Fresh × Lazygit で作るTUI開発環境](https://zenn.dev/harumikun/articles/dc8aa21859c57b)
 - [ExcelVBAをVSCode × AIエージェントの100%バイブコーディングで開発する方法](https://zenn.dev/harumikun/articles/5a0f1ef2a2265d)
 - [Mermaidコード読めないから某翻訳アプリのようなChrome拡張機能を作った](https://zenn.dev/harumikun/articles/607d6992408ad5)
-- [Pythonだけで&quot;ほぼReact&quot;な宣言的UIアプリが作れるようになったぞ！【Flet1.0beta】](https://zenn.dev/harumikun/articles/357c576417fbdd)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
