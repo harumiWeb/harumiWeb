@@ -24,10 +24,10 @@ In my work, I use **Python**, **TypeScript**🐍
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ExcelVBA開発をAIエージェントで自律化させるAll-in-Oneな開発ランタイムを作りました](https://zenn.dev/harumikun/articles/cd898e4032ca37)
 - [ターミナル上で爆速で英単語学習できるGo製TUIアプリ「eitango」を作った](https://zenn.dev/harumikun/articles/b43052b1776434)
 - [非Vimmerでもターミナル完結！新世代エディタ Fresh × Lazygit で作るTUI開発環境](https://zenn.dev/harumikun/articles/dc8aa21859c57b)
 - [ExcelVBAをVSCode × AIエージェントの100%バイブコーディングで開発する方法](https://zenn.dev/harumikun/articles/5a0f1ef2a2265d)
-- [Mermaidコード読めないから某翻訳アプリのようなChrome拡張機能を作った](https://zenn.dev/harumikun/articles/607d6992408ad5)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
