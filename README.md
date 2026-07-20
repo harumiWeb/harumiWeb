@@ -24,10 +24,10 @@ In my work, I use **Python**, **TypeScript**🐍
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【ExcelVBA】xlflowアプデ情報: 数式のGit管理、テストFW強化、Docstring対応など](https://zenn.dev/harumikun/articles/34d3e9d0cda52a)
 - [Excel VBAの開発体験をモダン言語並みにアゲる VSCode拡張機能を作りました](https://zenn.dev/harumikun/articles/05274480f07d5f)
 - [ExcelVBA開発をAIエージェントで自律化させるAll-in-Oneな開発ランタイムを作りました](https://zenn.dev/harumikun/articles/cd898e4032ca37)
 - [ターミナル上で爆速で英単語学習できるGo製TUIアプリ「eitango」を作った](https://zenn.dev/harumikun/articles/b43052b1776434)
-- [非Vimmerでもターミナル完結！新世代エディタ Fresh × Lazygit で作るTUI開発環境](https://zenn.dev/harumikun/articles/dc8aa21859c57b)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
